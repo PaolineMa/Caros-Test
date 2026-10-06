@@ -1,0 +1,12 @@
+CarOS - Apercu local Windows
+
+1. Extrayez tout le ZIP dans un dossier de votre ordinateur.
+2. Double-cliquez sur Ouvrir-CarOS.cmd.
+3. Entrez dans le navigateur le code fourni dans la conversation.
+
+Gardez la fenetre de commande ouverte ; la fermer arrete le serveur local.
+Apercu en lecture seule, avec indicateurs agreges. Les donnees individuelles et fichiers Excel originaux sont exclus. Les imports et modifications necessitent le serveur complet CarOS.
+
+Le lanceur utilise PowerShell fourni avec Windows et un port de boucle locale (8765 a 8775). Il ne change aucune politique de securite, ne requiert aucun droit administrateur et ne publie aucun serveur sur le reseau. Aucun Python ou logiciel supplementaire ne doit etre installe pour cet apercu.
+
+Le contenu chiffre est dechiffre dans le navigateur. Le code d acces reste hors des fichiers publies. L apercu expire le 13 octobre 2026 ; le code est identique a celui du lien web.
